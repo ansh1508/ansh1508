@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Ansh
 
-<!--
-**ansh1508/ansh1508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MCA student focused on Cloud and DevOps engineering.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently building strong fundamentals in:
+
+- Python
+- Data Structures & Algorithms
+- AWS (Cloud Practitioner → Solutions Architect)
+- Git & GitHub
+- Linux
+- Docker
+
+My goal is to become a skilled Cloud/DevOps engineer and gain strong industry experience.
+
+## Connect
+
+LinkedIn: www.linkedin.com/in/ansh-chawla1508
+Email: anshchawla5678@gmail.com
